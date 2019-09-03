@@ -1,2 +1,2 @@
-3.3 Getting started with testing
-https://www.railstutorial.org/book/static_pages#sec-getting_started_with_testing
+3.4 Slightly dynamic pages
+https://www.railstutorial.org/book/static_pages#sec-slightly_dynamic_pages
